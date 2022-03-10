@@ -1,0 +1,17 @@
+.imghover img:hover
+{
+    
+     transform: scale(2);
+}
+
+img
+{
+     transition-property: all;
+     transition-duration: 2s;
+}
+
+.imghover
+{
+     cursor: pointer;
+     overflow: hidden;
+}
